@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1520365235 source:c:\users\andrei243\desktop\programe\tema poo1\main.cpp
+	<iostream>
+	<fstream>
+	"nod.h"
+	"stiva.h"
+
+1520351968 c:\users\andrei243\desktop\programe\tema poo1\nod.h
+	"stiva.h"
+	<iostream>
+	<fstream>
+
+1520369308 c:\users\andrei243\desktop\programe\tema poo1\stiva.h
+	<iostream>
+	<fstream>
+	"nod.h"
+
+1521103249 source:c:\users\andre\onedrive\desktop\tema poo1\main.cpp
+	<iostream>
+	"stiva.h"
+
+1521103681 c:\users\andre\onedrive\desktop\tema poo1\stiva.h
+	"nod.h"
+	"stiva.cpp"
+
+1520975679 c:\users\andre\onedrive\desktop\tema poo1\nod.h
+	"nod.cpp"
+
+1520631830 source:c:\users\andrei243\desktop\tema poo1\main.cpp
+	<iostream>
+	"stiva.cpp"
+
+1520631830 c:\users\andrei243\desktop\tema poo1\stiva.h
+
+1520631842 c:\users\andrei243\desktop\tema poo1\nod.h
+
+1520629271 source:c:\users\andrei243\desktop\tema poo1\nod.cpp
+	"nod.h"
+
+1520631661 c:\users\andrei243\desktop\tema poo1\nod.cpp
+	"nod.h"
+
+1520631726 c:\users\andrei243\desktop\tema poo1\stiva.cpp
+	"nod.cpp"
+	"stiva.h"
+
+1520629964 source:c:\users\andrei243\desktop\tema poo1\stiva.cpp
+	"nod.cpp"
+	"stiva.h"
+
+1520975586 c:\users\andre\onedrive\desktop\tema poo1\nod.cpp
+	<iostream>
+
+1521103667 c:\users\andre\onedrive\desktop\tema poo1\stiva.cpp
+
